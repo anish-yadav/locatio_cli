@@ -11,4 +11,4 @@ run python3 location.py with no arguments to let automatically detect you locati
 
 ### case 2 : latitude and longitude given
 
-run python3 location.py <latitude> <longitude>
+run python3 location.py latitude longitude
